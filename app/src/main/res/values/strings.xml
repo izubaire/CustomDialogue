@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Dialogs</string>
+    <string name="title">SAVE MESSAGE</string>
+    <string name="message">Do you want to save this message?</string>
+    <string name="positive_res">Save</string>
+    <string name="negative_res">Discard</string>
+    <string name="save_message">Message is Saved!</string>
+    <string name="lost_message">Message is Lost!</string>
+</resources>
